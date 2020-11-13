@@ -1,8 +1,9 @@
 ### Hi all 👋
 
-I'm Álvaro. Javascript lover, frontend developer, programmer, autodidact in search of knowledge.
+I'm Álvaro. Javascript lover. Frontend developer. Programmer. Autodidact in search of knowledge.
 
 I like to laugh, share good conversations with a good beer.
+
 
 I’m currently working on an a project to manage home spends via mobile app build in React Native (U can access to it in a repo gastos-hogar)
 

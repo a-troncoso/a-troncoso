@@ -5,7 +5,7 @@ I'm Álvaro. Javascript lover. Frontend developer. Programmer. Autodidact in sea
 I like to laugh, share good conversations with a good beer.
 
 
-I’m currently working on an a project to manage home spends via mobile app build in React Native (U can access to it in a repo gastos-hogar)
+I’m currently working on an a project to manage home spends via mobile app build in React Native (U can visit it in repo called gastos-hogar)
 
 In the tech area I’m currently learning design patterns, application architecture and developing lead skills.
 

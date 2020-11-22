@@ -1,13 +1,12 @@
 ### Hi all 👋
 
-I'm Álvaro. Javascript lover. Frontend developer. Programmer. Autodidact in search of knowledge.
+I'm Álvaro. Javascript lover. Frontend developer. Programmer. Autodidact in search of knowledge 🤓
 
-I like to laugh, share good conversations with a good beer.
-
+I like to laugh, share good conversations with a good beer 🍻
 
 I’m currently working on an a project to manage home spends via mobile app build in React Native (U can visit it in repo called gastos-hogar)
 
-In the tech area I’m currently learning design patterns, application architecture and developing lead skills.
+In the tech area currently learning design patterns, application architecture and developing lead skills 🌱
 
 <!--
 **a-troncoso/a-troncoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
